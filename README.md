@@ -1,4 +1,14 @@
-# Welcome to my profile
+# 🖐️Hello, My name is Soyeon.
+### welcome to my github profile, let me introduce myself briefly.
+
+___
+
+
+|NAME|MBTI|AIM|
+|:---|:---|:---|
+|이소연|ISFJ|웹디자이너, 웹퍼블리셔|
+
+
 
 <!--
 **hghg12349-dev/hghg12349-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
