@@ -1,5 +1,6 @@
-## Welcome!
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome!%20&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Welcome!%20&fontSize=50)
+
 <!--
 **hghg12349-dev/hghg12349-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
